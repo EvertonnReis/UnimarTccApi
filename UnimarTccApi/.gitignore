@@ -1,0 +1,103 @@
+# Credentials and Secrets
+firebase-key.json
+appsettings.*.json
+appsettings.json
+*.key
+*.pem
+.env
+.env.local
+.env.*.local
+
+# .NET Build and Publish
+bin/
+obj/
+*.dll
+*.exe
+*.so
+*.dylib
+*.su
+*.o
+*.a
+*.lib
+*.lai
+*.lo
+*.slo
+
+# .NET Publish directories
+publish/
+PublishProfiles/
+*.publishsettings
+*.trx
+TestResults/
+
+# Visual Studio cache/options
+.vs/
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/*
+!.vscode/extensions.json
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+.rider/
+
+# User-specific files
+*.personalSettings
+*.userprefs
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs/
+*.log
+*.logs
+
+# Dependencies
+packages/
+!.github/packages/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Local history
+.local_history
+
+# Misc
+.vscode
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.tern-port
+
+# IDE Settings
+launchSettings.json
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+tmp/
+temp/
