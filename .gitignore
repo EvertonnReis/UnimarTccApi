@@ -1,0 +1,110 @@
+# Credentials and Secrets
+**/firebase-key.json
+**/appsettings.*.json
+**/.env
+**/.env.local
+**/.env.*.local
+*.key
+*.pem
+secrets.json
+
+# .NET Build and Publish
+**/bin/
+**/obj/
+*.dll
+*.exe
+*.so
+*.dylib
+*.su
+*.o
+*.a
+*.lib
+*.lai
+*.lo
+*.slo
+publish/
+PublishProfiles/
+*.publishsettings
+
+# Testing
+TestResults/
+*.trx
+coverage/
+*.coverage
+
+# Visual Studio
+.vs/
+*.sln.docstates
+*.suo
+*.user
+*.userosscache
+*.userprefs
+*.vcxproj.filters
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+!.vscode/extensions.json
+*.code-workspace
+
+# JetBrains Rider
+.idea/
+**/.rider/
+*.sln.iml
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs/
+*.log
+*.logs
+npm-debug.log*
+
+# Node (if using frontend tools)
+node_modules/
+dist/
+build/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
+*.mdf
+*.ldf
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# IDE
+launchSettings.json
+.classpath
+.project
+.c9/
+*.tern-port
+
+# Misc
+*.swp
+*.swo
+*~
+.vscode-server/
